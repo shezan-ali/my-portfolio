@@ -1,23 +1,31 @@
-SHEZAN ALI — HTML/CSS PORTFOLIO
+# Hi, I'm Shezan Ali 👋
 
-FILES
-- index.html: portfolio page and project preview markup
-- style.css: all styling
+I'm an aspiring frontend developer who builds static webpages using HTML and CSS.
 
-HOW TO USE
-1. Extract the ZIP.
-2. Open index.html in your browser, or open the folder in VS Code.
-3. Edit index.html to replace the placeholder email and social links.
-4. Replace the concept previews/links with your real deployed project URLs as you complete each project.
+I focus on creating clean, well-structured website interfaces and helping students bring their web project ideas to life.
 
-PROJECTS INCLUDED
-1. Linear UI — productivity interface recreation
-2. Netflix UI — streaming homepage recreation
-3. NOVA Store — e-commerce concept
-4. STUDIO — creative agency concept
-5. NOVA Dashboard — SaaS dashboard concept
+## 🎓 What I Build
+- University project webpages
+- Static landing pages
+- Student portfolio pages
+- Website UI practice projects
+- HTML and CSS layout recreations
 
-IMPORTANT
-The three new concepts are visual portfolio mockups to demonstrate planned project directions. Build the full pages before describing them as completed projects. The portfolio page itself uses responsive CSS so it can be viewed on different screen sizes; the service scope displayed on the page is HTML + CSS static pages only, excluding JavaScript, animations, and responsive implementation as a client service.
+## 🛠️ Skills
+- HTML5
+- CSS3
+- Page structure and layout
+- Typography, spacing, and styling
 
-The contact email is currently your.email@example.com. Replace it with your real email before publishing.
+## 📚 Currently Learning
+- Responsive web design
+- Advanced CSS layouts
+- JavaScript fundamentals
+
+## 💻 Practice Projects
+My repositories include independent practice recreations inspired by Linear, Netflix, NIKE, Stripe, and Instrument. These are learning projects and are not affiliated with the original brands.
+
+## 🌐 Portfolio
+https://shezan-ali.github.io/my-portfolio/
+
+I'm continuously improving my skills and working toward becoming a stronger frontend developer.
