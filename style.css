@@ -276,23 +276,35 @@ nav a:hover,
     overflow: hidden;
     border-block: 1px solid #2e2d31;
     background: #141416;
-    white-space: nowrap
 }
 
 .ticker div {
-    width: max-content;
-    padding: 17px 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 17px 20px;
     display: flex;
-    gap: 34px;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
+    gap: 12px 24px;
     font-size: 9px;
     letter-spacing: 1.7px;
     font-weight: 700;
-    color: #b9b5bd
+    color: #b9b5bd;
+    text-align: center;
 }
 
 .ticker b {
-    color: var(--red)
+    color: var(--red);
+}
+
+@media (max-width: 580px) {
+    .ticker div {
+        padding: 14px 16px;
+        gap: 10px 14px;
+        font-size: 8px;
+        letter-spacing: 1.2px;
+    }
 }
 
 .section {
